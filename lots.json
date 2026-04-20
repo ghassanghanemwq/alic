@@ -1,0 +1,883 @@
+{
+  "Lot_001": {
+    "Lot": "Lot_001",
+    "Area": 832.0,
+    "Price": 145600,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 37.7,
+    "Width": 22
+  },
+  "Lot_002": {
+    "Lot": "Lot_002",
+    "Area": 838.0,
+    "Price": 146650,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 37.11,
+    "Width": 22
+  },
+  "Lot_003": {
+    "Lot": "Lot_003",
+    "Area": 839.0,
+    "Price": 146825,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 38.13,
+    "Width": 22
+  },
+  "Lot_004": {
+    "Lot": "Lot_004",
+    "Area": 976.0,
+    "Price": 185440,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 26.15,
+    "Width": 20
+  },
+  "Lot_005": {
+    "Lot": "Lot_005",
+    "Area": null,
+    "Price": null,
+    "Status": "available",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_006": {
+    "Lot": "Lot_006",
+    "Area": 832.0,
+    "Price": 145600,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 37.64,
+    "Width": 22
+  },
+  "Lot_007": {
+    "Lot": "Lot_007",
+    "Area": 829.0,
+    "Price": 145075,
+    "Status": "available",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 37.64,
+    "Width": 22
+  },
+  "Lot_008": {
+    "Lot": "Lot_008",
+    "Area": 863.0,
+    "Price": 151025,
+    "Status": "reserved",
+    "Description": "قطعة تجارية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة جنوبية واسعة، وتقع على شارع بعرض 30 متر، وتبعد حوالي 500 متر عن شارع عمان التنموي (شارع الـ 100).",
+    "Length": 37.76,
+    "Width": 22
+  },
+  "Lot_009": {
+    "Lot": "Lot_009",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_010": {
+    "Lot": "Lot_010",
+    "Area": null,
+    "Price": null,
+    "Status": "available",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_011": {
+    "Lot": "Lot_011",
+    "Area": 750.0,
+    "Price": 112500,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية واسعة ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 29.8,
+    "Width": 24.71
+  },
+  "Lot_012": {
+    "Lot": "Lot_012",
+    "Area": 750.0,
+    "Price": 112500,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية واسعة ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 30.96,
+    "Width": 23.8
+  },
+  "Lot_013": {
+    "Lot": "Lot_013",
+    "Area": 750.0,
+    "Price": 112500,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية واسعة ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 32.09,
+    "Width": 23.01
+  },
+  "Lot_014": {
+    "Lot": "Lot_014",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_015": {
+    "Lot": "Lot_015",
+    "Area": 750.0,
+    "Price": 112500,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية واسعة ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 34.22,
+    "Width": 21.6
+  },
+  "Lot_016": {
+    "Lot": "Lot_016",
+    "Area": 751.0,
+    "Price": 112650,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 35.24,
+    "Width": 21.02
+  },
+  "Lot_017": {
+    "Lot": "Lot_017",
+    "Area": 771.0,
+    "Price": 115650,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 36.24,
+    "Width": 21.02
+  },
+  "Lot_018": {
+    "Lot": "Lot_018",
+    "Area": 792.0,
+    "Price": 118800,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 37.23,
+    "Width": 21
+  },
+  "Lot_019": {
+    "Lot": "Lot_019",
+    "Area": 774.0,
+    "Price": 116100,
+    "Status": "available",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية ومرتفعة ، وتقع على شارع بعرض 12 متر.",
+    "Length": 38.2,
+    "Width": 20
+  },
+  "Lot_020": {
+    "Lot": "Lot_020",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_021": {
+    "Lot": "Lot_021",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_022": {
+    "Lot": "Lot_022",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_023": {
+    "Lot": "Lot_023",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_024": {
+    "Lot": "Lot_024",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_025": {
+    "Lot": "Lot_025",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_026": {
+    "Lot": "Lot_026",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_027": {
+    "Lot": "Lot_027",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_028": {
+    "Lot": "Lot_028",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_029": {
+    "Lot": "Lot_029",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_030": {
+    "Lot": "Lot_030",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_031": {
+    "Lot": "Lot_031",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_032": {
+    "Lot": "Lot_032",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_033": {
+    "Lot": "Lot_033",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_034": {
+    "Lot": "Lot_034",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_035": {
+    "Lot": "Lot_035",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_036": {
+    "Lot": "Lot_036",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_037": {
+    "Lot": "Lot_037",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_038": {
+    "Lot": "Lot_038",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_039": {
+    "Lot": "Lot_039",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_040": {
+    "Lot": "Lot_040",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_041": {
+    "Lot": "Lot_041",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_042": {
+    "Lot": "Lot_042",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_043": {
+    "Lot": "Lot_043",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_044": {
+    "Lot": "Lot_044",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_045": {
+    "Lot": "Lot_045",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_046": {
+    "Lot": "Lot_046",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_047": {
+    "Lot": "Lot_047",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_048": {
+    "Lot": "Lot_048",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_049": {
+    "Lot": "Lot_049",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_050": {
+    "Lot": "Lot_050",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_051": {
+    "Lot": "Lot_051",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_052": {
+    "Lot": "Lot_052",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_053": {
+    "Lot": "Lot_053",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_054": {
+    "Lot": "Lot_054",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_055": {
+    "Lot": "Lot_055",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_056": {
+    "Lot": "Lot_056",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_057": {
+    "Lot": "Lot_057",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_058": {
+    "Lot": "Lot_058",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_059": {
+    "Lot": "Lot_059",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_060": {
+    "Lot": "Lot_060",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_061": {
+    "Lot": "Lot_061",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_062": {
+    "Lot": "Lot_062",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_063": {
+    "Lot": "Lot_063",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_064": {
+    "Lot": "Lot_064",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_065": {
+    "Lot": "Lot_065",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_066": {
+    "Lot": "Lot_066",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_067": {
+    "Lot": "Lot_067",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_068": {
+    "Lot": "Lot_068",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_069": {
+    "Lot": "Lot_069",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_070": {
+    "Lot": "Lot_070",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_071": {
+    "Lot": "Lot_071",
+    "Area": 501.0,
+    "Price": 80160,
+    "Status": "sold",
+    "Description": "قطعة سكنية مميزة بأحكام خاصة (طابقين وروف)، تتمتع بواجهة غربية، وتقع على شارع بعرض 12 متر .وقريبة من الحديقة ومدخل المدينة الرئيسة.",
+    "Length": 26,
+    "Width": 19.25
+  },
+  "Lot_072": {
+    "Lot": "Lot_072",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_073": {
+    "Lot": "Lot_073",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_074": {
+    "Lot": "Lot_074",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_075": {
+    "Lot": "Lot_075",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_076": {
+    "Lot": "Lot_076",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_077": {
+    "Lot": "Lot_077",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_078": {
+    "Lot": "Lot_078",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_079": {
+    "Lot": "Lot_079",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_080": {
+    "Lot": "Lot_080",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_081": {
+    "Lot": "Lot_081",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_082": {
+    "Lot": "Lot_082",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_083": {
+    "Lot": "Lot_083",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_084": {
+    "Lot": "Lot_084",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_085": {
+    "Lot": "Lot_085",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_086": {
+    "Lot": "Lot_086",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_087": {
+    "Lot": "Lot_087",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_088": {
+    "Lot": "Lot_088",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_089": {
+    "Lot": "Lot_089",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_090": {
+    "Lot": "Lot_090",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_091": {
+    "Lot": "Lot_091",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_092": {
+    "Lot": "Lot_092",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_093": {
+    "Lot": "Lot_093",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_094": {
+    "Lot": "Lot_094",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_095": {
+    "Lot": "Lot_095",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_096": {
+    "Lot": "Lot_096",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_097": {
+    "Lot": "Lot_097",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  },
+  "Lot_098": {
+    "Lot": "Lot_098",
+    "Area": null,
+    "Price": null,
+    "Status": "sold",
+    "Description": null,
+    "Length": null,
+    "Width": null
+  }
